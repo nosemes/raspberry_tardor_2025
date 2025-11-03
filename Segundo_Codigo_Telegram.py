@@ -38,7 +38,10 @@ bot.polling(none_stop=True)
 
 
 
+'''
+Modificació despres haverlo pujat una vegada
 
+'''
 
 
 

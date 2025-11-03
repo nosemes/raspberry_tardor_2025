@@ -23,3 +23,10 @@ bot.polling(none_stop=True)
 '''
 Hem instalat telebot amb pip install telebot davant el dubte també fes pip3 install telebot
 '''
+
+
+'''
+
+modificacio despres d'haver-lo pujat una vegada
+
+'''
